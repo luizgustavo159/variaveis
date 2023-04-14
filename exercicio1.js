@@ -1,2 +1,2 @@
 const cidade =  "Campo Grande";
-console.log (cidade);
+console.log (`minha cidade natal é ${cidade}`);
